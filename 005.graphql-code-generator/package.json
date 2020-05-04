@@ -1,0 +1,23 @@
+{
+  "name": "005.graphql-code-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "generate": "graphql-codegen --config codegen.yml",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jason Heylon",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.12.0",
+    "graphql": "^15.0.0",
+    "graphql-import": "^1.0.2"
+  },
+  "devDependencies": {
+    "@graphql-codegen/cli": "1.13.5",
+    "@graphql-codegen/typescript": "1.13.5"
+  }
+}
