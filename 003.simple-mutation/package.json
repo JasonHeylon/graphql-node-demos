@@ -1,0 +1,17 @@
+{
+  "name": "001.graphql-api-query-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jason Heylon",
+  "license": "ISC",
+  "devDependencies": {
+    "graphql": "^15.0.0",
+    "graphql-tools": "^5.0.0"
+  }
+}
