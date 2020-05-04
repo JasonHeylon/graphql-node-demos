@@ -26,6 +26,7 @@ input AddBookInput {
   title: String!
   author: String!
 }
+
 type Mutation {
   addBook(book: AddBookInput!): Book!
 }
