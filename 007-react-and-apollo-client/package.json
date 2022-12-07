@@ -22,7 +22,7 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "@graphql-codegen/cli": "^1.13.5",
+    "@graphql-codegen/cli": "^1.21.8",
     "@graphql-codegen/typescript": "^1.13.5",
     "@types/react": "^16.9.34",
     "@types/react-dom": "^16.9.7",
